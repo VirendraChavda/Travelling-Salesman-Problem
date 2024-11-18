@@ -1,7 +1,9 @@
 # Traveling Salesman Problem Solver
-### Author: [Your Name]
+### Author: Virendrasinh Chavda
 
+<p align="justify">
 This repository contains an implementation of search algorithms to solve the <strong>Traveling Salesman Problem (TSP)</strong>. The project visualizes the shortest path for a traveling salesman using various search strategies and highlights their performance on small graphs.
+</p>
 
 ---
 
@@ -32,15 +34,10 @@ To set up and run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/tsp-solver.git
+   git clone https://github.com/VirendraChavda/Travelling-Salesman-Problem.git
    cd tsp-solver
    ```
-2. Create a virtual environment:
-   ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows: env\Scripts\activate
-   ```
-3. Launch the Jupyter Notebook:
+2. Launch the Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
